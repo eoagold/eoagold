@@ -1,4 +1,6 @@
 ### Hi there 👋
+--
+This is a landing page for online marketing of EOA GOLD SOLO RAYA with domain name eoagoldsolo.com
 
 <!--
 **eoagold/eoagold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
