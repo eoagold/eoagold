@@ -1,7 +1,7 @@
-# EOA GOLD SOLO RAYA
----
+## EOA GOLD SOLO RAYA
+
 Thanks for comin' here. This is a landing page for online marketing of **EOA GOLD SOLO RAYA** with domain name <a href='https://eoagoldsolo.com/' title='EOA GOLD SOLO RAYA' target='_blank'>`eoagoldsolo.com`</a>
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Blog Posts  <a href='https://blog.eoagoldsolo.com/' title='Blog EOA GOLD SOLO RAYA' target='_blank'>`blog.eoagoldsolo.com`</a>
+<!-- BLOGGER:START -->
+<!-- BLOGGER:END -->
