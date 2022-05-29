@@ -13,4 +13,6 @@ Hi, there! Thanks for comin' here. This is our landing page for online marketing
 
 ### 📺 Must Watch to Know More
 <!-- YOUTUBE:START -->
+- [CEK!!! Bukti Kadar Emas 24 Karat dari Produk Logam Mulia EOA GOLD](https://www.youtube.com/watch?v=mbBxdVca65Q)
+- [Intro EOA GOLD Solusi Investasi Emas Batangan](https://www.youtube.com/watch?v=EpYvNeZIVwU)
 <!-- YOUTUBE:END -->
