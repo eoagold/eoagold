@@ -15,4 +15,4 @@ jobs:
         with:
           comment_tag_name: "BLOGGER"
           max_post_count: "5"
-          feed_list: "https://www.eoagoldsolo.com/feeds/posts/default,https://www.eoagoldsolo.com/feeds/posts/default?alt=rss"
+          feed_list: "https://www.eoagoldsolo.com/feeds/posts/default"
