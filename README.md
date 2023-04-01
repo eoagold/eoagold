@@ -2,7 +2,7 @@
 
 Hi, there! Thanks for comin' here. This is our landing page for online marketing project of **EOA GOLD SOLO RAYA** with domain name [`eoagoldsolo.com`](https://eoagoldsolo.com/) based on GitHub.
 
-### 📖 Blog Posts from <a href='https://blog.eoagoldsolo.com/' title='Blog EOA GOLD SOLO RAYA' target='_blank'>blog.eoagoldsolo.com</a>
+### 📖 Blog Posts from <a href='https://www.eoagoldsolo.com/search' title='Blog EOA GOLD SOLO RAYA' target='_blank'>eoagoldsolo.com</a>
 <!-- BLOGGER:START -->
 - [Pemula Harap Baca Ini! Harga Emas dan Fakta yang Harus Anda Ketahui](https://www.eoagoldsolo.com/2020/08/harga-emas-dan-fakta-yang-harus-anda-ketahui-tentangnya.html)
 - [Semangat Perjuangan Meneladani Peristiwa Hijrah](https://www.eoagoldsolo.com/2020/08/semangat-perjuangan-meneladani-peristiwa-hijrah.html)
