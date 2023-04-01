@@ -4,11 +4,11 @@ Hi, there! Thanks for comin' here. This is our landing page for online marketing
 
 ### 📖 Blog Posts from <a href='https://www.eoagoldsolo.com/search' title='Blog EOA GOLD SOLO RAYA' target='_blank'>eoagoldsolo.com</a>
 <!-- BLOGGER:START -->
-- [Pemula Harap Baca Ini! Harga Emas dan Fakta yang Harus Anda Ketahui](https://www.eoagoldsolo.com/2020/08/harga-emas-dan-fakta-yang-harus-anda-ketahui-tentangnya.html)
-- [Semangat Perjuangan Meneladani Peristiwa Hijrah](https://www.eoagoldsolo.com/2020/08/semangat-perjuangan-meneladani-peristiwa-hijrah.html)
-- [Resesi Ekonomi Mengancam, Baiknya Investasi Emas atau Dollar?](https://www.eoagoldsolo.com/2020/08/resesi-ekonomi-mengancam-baiknya-investasi-emas-atau-dollar.html)
-- [Semangat Juli, Harga Emas EOA GOLD Hari Ini](https://www.eoagoldsolo.com/2020/07/semangat-juli-harga-emas-eoa-gold-hari-ini.html)
-- [Akhir Bulan, Harga Emas EOA GOLD Naik](https://www.eoagoldsolo.com/2020/06/akhir-bulan-harga-emas-eoa-gold-naik.html)
+- [Smart Hafiz Versi 6](https://www.smarthafiztalkingdoll.com/2022/10/smart-hafiz-versi-6.html)
+- [Smart Hafiz Versi 5](https://www.smarthafiztalkingdoll.com/2020/12/new-smart-hafiz-versi-5.html)
+- [Hafiz Digital Pen](https://www.smarthafiztalkingdoll.com/2020/05/hafiz-pen-alqolam.html)
+- [Hafiz Hafizah Talking Doll](https://www.smarthafiztalkingdoll.com/2020/03/hafiz-hafizah-talking-doll.html)
+- [Walter Rocket Pen](https://www.smarthafiztalkingdoll.com/2020/03/walter-rocket-pen-mini.html)
 <!-- BLOGGER:END -->
 
 ### 📺 Must Watch to Know More
