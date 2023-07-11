@@ -4,11 +4,11 @@ Hi, there! Thanks for comin' here. This is our landing page for online marketing
 
 ### 📖 Blog Posts from <a href='https://www.eoagoldsolo.com/search' title='Blog EOA GOLD SOLO RAYA' target='_blank'>eoagoldsolo.com</a>
 <!-- BLOGGER:START -->
+- [Hafiz Genius Gamepad Islami](https://www.smarthafiztalkingdoll.com/2023/07/hafiz-genius.html)
 - [Smart Hafiz Versi 6](https://www.smarthafiztalkingdoll.com/2022/10/smart-hafiz-versi-6.html)
 - [Smart Hafiz Versi 5](https://www.smarthafiztalkingdoll.com/2020/12/new-smart-hafiz-versi-5.html)
 - [Hafiz Digital Pen](https://www.smarthafiztalkingdoll.com/2020/05/hafiz-pen-alqolam.html)
 - [Hafiz Hafizah Talking Doll](https://www.smarthafiztalkingdoll.com/2020/03/hafiz-hafizah-talking-doll.html)
-- [Walter Rocket Pen](https://www.smarthafiztalkingdoll.com/2020/03/walter-rocket-pen-mini.html)
 <!-- BLOGGER:END -->
 
 ### 📺 Must Watch to Know More
